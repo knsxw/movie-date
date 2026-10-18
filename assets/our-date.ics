@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//A Date With Destiny//Movie Date//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:movie-date-20261217T093000@a-date-with-destiny.local
+DTSTAMP:20261018T000000Z
+DTSTART:20261217T093000Z
+SUMMARY:Our movie date - Avengers: Doomsday
+LOCATION:Mega Cineplex - Theatre 14
+DESCRIPTION:You + me. Seats A12 and A13. English audio / Thai subtitles.\n
+ 16:30 Bangkok time. Bring the original cinema ticket for entry.
+END:VEVENT
+END:VCALENDAR
